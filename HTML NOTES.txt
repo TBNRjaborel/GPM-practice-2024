@@ -1,0 +1,31 @@
+HTML NOTES
+
+**Basic Definitions**
+The <!DOCTYPE html> declaration defines that this document is an HTML5 document
+
+The <html> element is the root element of an HTML page
+
+The <head> element contains meta information about the HTML page
+
+The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+
+The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+
+The <h1> element defines a large heading
+
+The <p> element defines a paragraph
+
+**Tags**
+Start tag sample and end tag sample:
+<h1> "YOUR INPUT" <\h1>
+
+Note: Some HTML elements have no content (like the <br> element). These elements are called empty elements. Empty elements do not have an end tag!
+
+
+**Attributes**
+href - hyperlink <a>
+img - images | attributes : src (source), alt(alternative text), width, height
+<br> - linebreak
+
+
+
